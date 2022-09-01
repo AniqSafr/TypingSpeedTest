@@ -87,6 +87,7 @@ root = ttkthemes.ThemedTk()
 root.get_themes()
 root.set_theme('breeze')
 root.geometry('940x735+210+10')
+root.title('Typing Speed Test')
 
         # root.resizable(0,0) with this method you cannot resize size of the window but i am not gonna use that
 
